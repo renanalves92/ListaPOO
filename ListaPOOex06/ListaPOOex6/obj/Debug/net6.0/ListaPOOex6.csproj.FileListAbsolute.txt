@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\bin\Debug\net6.0\ListaPOOex6.exe
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\bin\Debug\net6.0\ListaPOOex6.deps.json
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\bin\Debug\net6.0\ListaPOOex6.runtimeconfig.json
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\bin\Debug\net6.0\ListaPOOex6.dll
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\bin\Debug\net6.0\ListaPOOex6.pdb
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.AssemblyInfo.cs
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.dll
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\refint\ListaPOOex6.dll
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.pdb
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ListaPOOex6.genruntimeconfig.cache
+C:\Users\aluno\source\repos\ListaPOOex6\ListaPOOex6\obj\Debug\net6.0\ref\ListaPOOex6.dll
